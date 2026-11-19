@@ -1,0 +1,25 @@
+{
+  "name": "tiktok-shop",
+  "displayName": "TikTok Shop",
+  "version": "0.1.0",
+  "description": "Skills that help TikTok Shop sellers review performance, fix listings and manage affiliate creators, using the TikTok Shop connector.",
+  "author": {
+    "name": "TikTok Shop",
+    "email": "ai-open-platform@tiktokshop.example",
+    "url": "https://www.tiktokshop.example"
+  },
+  "homepage": "https://partner.tiktokshop.example/docs/claude",
+  "repository": "https://github.com/tiktokshop-example/claude-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "tiktok-shop",
+    "ecommerce",
+    "seller",
+    "affiliate"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://partner.tiktokshop.example/docs/claude",
+  "supportUrl": "https://partner.tiktokshop.example/support",
+  "privacyPolicyUrl": "https://www.tiktokshop.example/legal/privacy",
+  "termsOfServiceUrl": "https://www.tiktokshop.example/legal/terms"
+}

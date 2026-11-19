@@ -1,0 +1,4 @@
+Apache License, Version 2.0  (SAMPLE PLACEHOLDER)
+
+许可证类型由法务决定（Apache-2.0 / MIT / 专有许可均可，目录只要求有 LICENSE 文件或 plugin.json 里的 license 字段）。
+正式提交时请替换为完整许可证文本：https://www.apache.org/licenses/LICENSE-2.0.txt

@@ -1,0 +1,5 @@
+{
+  "name": "fake-tts-mcp",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-01"
+}

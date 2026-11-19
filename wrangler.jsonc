@@ -1,0 +1,7 @@
+// Lets "npx wrangler deploy" work from the repository root
+// (Cloudflare's Git deploy runs its command at the root). The server code lives in fake-tts-mcp/.
+{
+  "name": "fake-tts-mcp",
+  "main": "fake-tts-mcp/src/index.js",
+  "compatibility_date": "2026-11-01"
+}
